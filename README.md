@@ -1,5 +1,3 @@
 # wanjiku-doodle
 ##editing the file
-
-
-It's a markdown in this repository
+This is my markdown repository
